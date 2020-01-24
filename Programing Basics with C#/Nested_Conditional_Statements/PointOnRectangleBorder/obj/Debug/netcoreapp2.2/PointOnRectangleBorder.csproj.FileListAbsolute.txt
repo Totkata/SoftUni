@@ -1,0 +1,11 @@
+C:\Users\ASUS\source\repos\NestedConditionalStatementsExercise\PointOnRectangleBorder\bin\Debug\netcoreapp2.2\PointOnRectangleBorder.deps.json
+C:\Users\ASUS\source\repos\NestedConditionalStatementsExercise\PointOnRectangleBorder\bin\Debug\netcoreapp2.2\PointOnRectangleBorder.runtimeconfig.json
+C:\Users\ASUS\source\repos\NestedConditionalStatementsExercise\PointOnRectangleBorder\bin\Debug\netcoreapp2.2\PointOnRectangleBorder.runtimeconfig.dev.json
+C:\Users\ASUS\source\repos\NestedConditionalStatementsExercise\PointOnRectangleBorder\bin\Debug\netcoreapp2.2\PointOnRectangleBorder.dll
+C:\Users\ASUS\source\repos\NestedConditionalStatementsExercise\PointOnRectangleBorder\bin\Debug\netcoreapp2.2\PointOnRectangleBorder.pdb
+C:\Users\ASUS\source\repos\NestedConditionalStatementsExercise\PointOnRectangleBorder\obj\Debug\netcoreapp2.2\PointOnRectangleBorder.csprojAssemblyReference.cache
+C:\Users\ASUS\source\repos\NestedConditionalStatementsExercise\PointOnRectangleBorder\obj\Debug\netcoreapp2.2\PointOnRectangleBorder.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\NestedConditionalStatementsExercise\PointOnRectangleBorder\obj\Debug\netcoreapp2.2\PointOnRectangleBorder.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\NestedConditionalStatementsExercise\PointOnRectangleBorder\obj\Debug\netcoreapp2.2\PointOnRectangleBorder.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\NestedConditionalStatementsExercise\PointOnRectangleBorder\obj\Debug\netcoreapp2.2\PointOnRectangleBorder.dll
+C:\Users\ASUS\source\repos\NestedConditionalStatementsExercise\PointOnRectangleBorder\obj\Debug\netcoreapp2.2\PointOnRectangleBorder.pdb
