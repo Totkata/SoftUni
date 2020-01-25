@@ -1,0 +1,11 @@
+D:\Projects\Code\GitHub\Programming Basics with C#\WhileLoop\Exam Preparation\bin\Debug\netcoreapp3.1\Exam Preparation.exe
+D:\Projects\Code\GitHub\Programming Basics with C#\WhileLoop\Exam Preparation\bin\Debug\netcoreapp3.1\Exam Preparation.deps.json
+D:\Projects\Code\GitHub\Programming Basics with C#\WhileLoop\Exam Preparation\bin\Debug\netcoreapp3.1\Exam Preparation.runtimeconfig.json
+D:\Projects\Code\GitHub\Programming Basics with C#\WhileLoop\Exam Preparation\bin\Debug\netcoreapp3.1\Exam Preparation.runtimeconfig.dev.json
+D:\Projects\Code\GitHub\Programming Basics with C#\WhileLoop\Exam Preparation\bin\Debug\netcoreapp3.1\Exam Preparation.dll
+D:\Projects\Code\GitHub\Programming Basics with C#\WhileLoop\Exam Preparation\bin\Debug\netcoreapp3.1\Exam Preparation.pdb
+D:\Projects\Code\GitHub\Programming Basics with C#\WhileLoop\Exam Preparation\obj\Debug\netcoreapp3.1\Exam Preparation.csprojAssemblyReference.cache
+D:\Projects\Code\GitHub\Programming Basics with C#\WhileLoop\Exam Preparation\obj\Debug\netcoreapp3.1\Exam Preparation.AssemblyInfoInputs.cache
+D:\Projects\Code\GitHub\Programming Basics with C#\WhileLoop\Exam Preparation\obj\Debug\netcoreapp3.1\Exam Preparation.AssemblyInfo.cs
+D:\Projects\Code\GitHub\Programming Basics with C#\WhileLoop\Exam Preparation\obj\Debug\netcoreapp3.1\Exam Preparation.dll
+D:\Projects\Code\GitHub\Programming Basics with C#\WhileLoop\Exam Preparation\obj\Debug\netcoreapp3.1\Exam Preparation.pdb
