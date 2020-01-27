@@ -1,0 +1,11 @@
+D:\Projects\Code\GitHub\Programming Basics with C#\ForLoop\Odd Even Position\bin\Debug\netcoreapp3.1\Odd Even Position.exe
+D:\Projects\Code\GitHub\Programming Basics with C#\ForLoop\Odd Even Position\bin\Debug\netcoreapp3.1\Odd Even Position.deps.json
+D:\Projects\Code\GitHub\Programming Basics with C#\ForLoop\Odd Even Position\bin\Debug\netcoreapp3.1\Odd Even Position.runtimeconfig.json
+D:\Projects\Code\GitHub\Programming Basics with C#\ForLoop\Odd Even Position\bin\Debug\netcoreapp3.1\Odd Even Position.runtimeconfig.dev.json
+D:\Projects\Code\GitHub\Programming Basics with C#\ForLoop\Odd Even Position\bin\Debug\netcoreapp3.1\Odd Even Position.dll
+D:\Projects\Code\GitHub\Programming Basics with C#\ForLoop\Odd Even Position\bin\Debug\netcoreapp3.1\Odd Even Position.pdb
+D:\Projects\Code\GitHub\Programming Basics with C#\ForLoop\Odd Even Position\obj\Debug\netcoreapp3.1\Odd Even Position.csprojAssemblyReference.cache
+D:\Projects\Code\GitHub\Programming Basics with C#\ForLoop\Odd Even Position\obj\Debug\netcoreapp3.1\Odd Even Position.AssemblyInfoInputs.cache
+D:\Projects\Code\GitHub\Programming Basics with C#\ForLoop\Odd Even Position\obj\Debug\netcoreapp3.1\Odd Even Position.AssemblyInfo.cs
+D:\Projects\Code\GitHub\Programming Basics with C#\ForLoop\Odd Even Position\obj\Debug\netcoreapp3.1\Odd Even Position.dll
+D:\Projects\Code\GitHub\Programming Basics with C#\ForLoop\Odd Even Position\obj\Debug\netcoreapp3.1\Odd Even Position.pdb
