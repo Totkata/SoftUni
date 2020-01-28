@@ -9,7 +9,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Half Sum Element", "Half Su
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Odd Even Position", "Odd Even Position\Odd Even Position.csproj", "{AFF014D9-9584-4F8E-A0F7-FC5B7564E4C2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Histogram", "Histogram\Histogram.csproj", "{669B75CC-91A2-4EDA-9480-84F78FA7562A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Histogram", "Histogram\Histogram.csproj", "{669B75CC-91A2-4EDA-9480-84F78FA7562A}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Divide Without Remainder", "Divide Without Remainder\Divide Without Remainder.csproj", "{3F345F50-35A5-4828-8E55-B325E338586C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Salary", "Salary\Salary.csproj", "{57264707-7305-4EA3-BAB9-BA51D492018C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +37,14 @@ Global
 		{669B75CC-91A2-4EDA-9480-84F78FA7562A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{669B75CC-91A2-4EDA-9480-84F78FA7562A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{669B75CC-91A2-4EDA-9480-84F78FA7562A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3F345F50-35A5-4828-8E55-B325E338586C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3F345F50-35A5-4828-8E55-B325E338586C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3F345F50-35A5-4828-8E55-B325E338586C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3F345F50-35A5-4828-8E55-B325E338586C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{57264707-7305-4EA3-BAB9-BA51D492018C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{57264707-7305-4EA3-BAB9-BA51D492018C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{57264707-7305-4EA3-BAB9-BA51D492018C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{57264707-7305-4EA3-BAB9-BA51D492018C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
