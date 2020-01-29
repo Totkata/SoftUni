@@ -1,0 +1,11 @@
+D:\Projects\Code\GitHub\C# Fundamentals\C_Sharp_Fundamentals\Divison\bin\Debug\netcoreapp3.0\Divison.exe
+D:\Projects\Code\GitHub\C# Fundamentals\C_Sharp_Fundamentals\Divison\bin\Debug\netcoreapp3.0\Divison.deps.json
+D:\Projects\Code\GitHub\C# Fundamentals\C_Sharp_Fundamentals\Divison\bin\Debug\netcoreapp3.0\Divison.runtimeconfig.json
+D:\Projects\Code\GitHub\C# Fundamentals\C_Sharp_Fundamentals\Divison\bin\Debug\netcoreapp3.0\Divison.runtimeconfig.dev.json
+D:\Projects\Code\GitHub\C# Fundamentals\C_Sharp_Fundamentals\Divison\bin\Debug\netcoreapp3.0\Divison.dll
+D:\Projects\Code\GitHub\C# Fundamentals\C_Sharp_Fundamentals\Divison\bin\Debug\netcoreapp3.0\Divison.pdb
+D:\Projects\Code\GitHub\C# Fundamentals\C_Sharp_Fundamentals\Divison\obj\Debug\netcoreapp3.0\Divison.csprojAssemblyReference.cache
+D:\Projects\Code\GitHub\C# Fundamentals\C_Sharp_Fundamentals\Divison\obj\Debug\netcoreapp3.0\Divison.AssemblyInfoInputs.cache
+D:\Projects\Code\GitHub\C# Fundamentals\C_Sharp_Fundamentals\Divison\obj\Debug\netcoreapp3.0\Divison.AssemblyInfo.cs
+D:\Projects\Code\GitHub\C# Fundamentals\C_Sharp_Fundamentals\Divison\obj\Debug\netcoreapp3.0\Divison.dll
+D:\Projects\Code\GitHub\C# Fundamentals\C_Sharp_Fundamentals\Divison\obj\Debug\netcoreapp3.0\Divison.pdb

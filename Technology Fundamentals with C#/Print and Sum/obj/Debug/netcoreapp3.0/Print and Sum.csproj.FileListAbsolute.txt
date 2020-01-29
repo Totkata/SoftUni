@@ -1,0 +1,11 @@
+D:\Projects\Code\GitHub\C# Fundamentals\C_Sharp_Fundamentals\Print and Sum\bin\Debug\netcoreapp3.0\Print and Sum.exe
+D:\Projects\Code\GitHub\C# Fundamentals\C_Sharp_Fundamentals\Print and Sum\bin\Debug\netcoreapp3.0\Print and Sum.deps.json
+D:\Projects\Code\GitHub\C# Fundamentals\C_Sharp_Fundamentals\Print and Sum\bin\Debug\netcoreapp3.0\Print and Sum.runtimeconfig.json
+D:\Projects\Code\GitHub\C# Fundamentals\C_Sharp_Fundamentals\Print and Sum\bin\Debug\netcoreapp3.0\Print and Sum.runtimeconfig.dev.json
+D:\Projects\Code\GitHub\C# Fundamentals\C_Sharp_Fundamentals\Print and Sum\bin\Debug\netcoreapp3.0\Print and Sum.dll
+D:\Projects\Code\GitHub\C# Fundamentals\C_Sharp_Fundamentals\Print and Sum\bin\Debug\netcoreapp3.0\Print and Sum.pdb
+D:\Projects\Code\GitHub\C# Fundamentals\C_Sharp_Fundamentals\Print and Sum\obj\Debug\netcoreapp3.0\Print and Sum.csprojAssemblyReference.cache
+D:\Projects\Code\GitHub\C# Fundamentals\C_Sharp_Fundamentals\Print and Sum\obj\Debug\netcoreapp3.0\Print and Sum.AssemblyInfoInputs.cache
+D:\Projects\Code\GitHub\C# Fundamentals\C_Sharp_Fundamentals\Print and Sum\obj\Debug\netcoreapp3.0\Print and Sum.AssemblyInfo.cs
+D:\Projects\Code\GitHub\C# Fundamentals\C_Sharp_Fundamentals\Print and Sum\obj\Debug\netcoreapp3.0\Print and Sum.dll
+D:\Projects\Code\GitHub\C# Fundamentals\C_Sharp_Fundamentals\Print and Sum\obj\Debug\netcoreapp3.0\Print and Sum.pdb
