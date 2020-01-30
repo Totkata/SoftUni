@@ -1,0 +1,11 @@
+D:\Projects\Code\GitHub\C# Fundamentals\C_Sharp_Fundamentals\Vacation\bin\Debug\netcoreapp3.0\Vacation.exe
+D:\Projects\Code\GitHub\C# Fundamentals\C_Sharp_Fundamentals\Vacation\bin\Debug\netcoreapp3.0\Vacation.deps.json
+D:\Projects\Code\GitHub\C# Fundamentals\C_Sharp_Fundamentals\Vacation\bin\Debug\netcoreapp3.0\Vacation.runtimeconfig.json
+D:\Projects\Code\GitHub\C# Fundamentals\C_Sharp_Fundamentals\Vacation\bin\Debug\netcoreapp3.0\Vacation.runtimeconfig.dev.json
+D:\Projects\Code\GitHub\C# Fundamentals\C_Sharp_Fundamentals\Vacation\bin\Debug\netcoreapp3.0\Vacation.dll
+D:\Projects\Code\GitHub\C# Fundamentals\C_Sharp_Fundamentals\Vacation\bin\Debug\netcoreapp3.0\Vacation.pdb
+D:\Projects\Code\GitHub\C# Fundamentals\C_Sharp_Fundamentals\Vacation\obj\Debug\netcoreapp3.0\Vacation.csprojAssemblyReference.cache
+D:\Projects\Code\GitHub\C# Fundamentals\C_Sharp_Fundamentals\Vacation\obj\Debug\netcoreapp3.0\Vacation.AssemblyInfoInputs.cache
+D:\Projects\Code\GitHub\C# Fundamentals\C_Sharp_Fundamentals\Vacation\obj\Debug\netcoreapp3.0\Vacation.AssemblyInfo.cs
+D:\Projects\Code\GitHub\C# Fundamentals\C_Sharp_Fundamentals\Vacation\obj\Debug\netcoreapp3.0\Vacation.dll
+D:\Projects\Code\GitHub\C# Fundamentals\C_Sharp_Fundamentals\Vacation\obj\Debug\netcoreapp3.0\Vacation.pdb
