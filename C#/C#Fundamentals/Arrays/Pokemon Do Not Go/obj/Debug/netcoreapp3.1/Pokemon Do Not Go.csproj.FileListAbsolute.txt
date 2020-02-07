@@ -1,0 +1,11 @@
+D:\Projects\Code\GitHub\C# Fundamentals\Arrays\Pokemon Do Not Go\bin\Debug\netcoreapp3.1\Pokemon Do Not Go.exe
+D:\Projects\Code\GitHub\C# Fundamentals\Arrays\Pokemon Do Not Go\bin\Debug\netcoreapp3.1\Pokemon Do Not Go.deps.json
+D:\Projects\Code\GitHub\C# Fundamentals\Arrays\Pokemon Do Not Go\bin\Debug\netcoreapp3.1\Pokemon Do Not Go.runtimeconfig.json
+D:\Projects\Code\GitHub\C# Fundamentals\Arrays\Pokemon Do Not Go\bin\Debug\netcoreapp3.1\Pokemon Do Not Go.runtimeconfig.dev.json
+D:\Projects\Code\GitHub\C# Fundamentals\Arrays\Pokemon Do Not Go\bin\Debug\netcoreapp3.1\Pokemon Do Not Go.dll
+D:\Projects\Code\GitHub\C# Fundamentals\Arrays\Pokemon Do Not Go\bin\Debug\netcoreapp3.1\Pokemon Do Not Go.pdb
+D:\Projects\Code\GitHub\C# Fundamentals\Arrays\Pokemon Do Not Go\obj\Debug\netcoreapp3.1\Pokemon Do Not Go.csprojAssemblyReference.cache
+D:\Projects\Code\GitHub\C# Fundamentals\Arrays\Pokemon Do Not Go\obj\Debug\netcoreapp3.1\Pokemon Do Not Go.AssemblyInfoInputs.cache
+D:\Projects\Code\GitHub\C# Fundamentals\Arrays\Pokemon Do Not Go\obj\Debug\netcoreapp3.1\Pokemon Do Not Go.AssemblyInfo.cs
+D:\Projects\Code\GitHub\C# Fundamentals\Arrays\Pokemon Do Not Go\obj\Debug\netcoreapp3.1\Pokemon Do Not Go.dll
+D:\Projects\Code\GitHub\C# Fundamentals\Arrays\Pokemon Do Not Go\obj\Debug\netcoreapp3.1\Pokemon Do Not Go.pdb

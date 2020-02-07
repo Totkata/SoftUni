@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Pokemon Do Not Go/1.0.0": {
+        "runtime": {
+          "Pokemon Do Not Go.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Pokemon Do Not Go/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
