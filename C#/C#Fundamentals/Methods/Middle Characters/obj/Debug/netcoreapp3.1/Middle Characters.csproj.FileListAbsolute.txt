@@ -1,0 +1,11 @@
+D:\Projects\Code\GitHub\C# Fundamentals\Methods\Smallest of Three Numbers\Middle Characters\bin\Debug\netcoreapp3.1\Middle Characters.exe
+D:\Projects\Code\GitHub\C# Fundamentals\Methods\Smallest of Three Numbers\Middle Characters\bin\Debug\netcoreapp3.1\Middle Characters.deps.json
+D:\Projects\Code\GitHub\C# Fundamentals\Methods\Smallest of Three Numbers\Middle Characters\bin\Debug\netcoreapp3.1\Middle Characters.runtimeconfig.json
+D:\Projects\Code\GitHub\C# Fundamentals\Methods\Smallest of Three Numbers\Middle Characters\bin\Debug\netcoreapp3.1\Middle Characters.runtimeconfig.dev.json
+D:\Projects\Code\GitHub\C# Fundamentals\Methods\Smallest of Three Numbers\Middle Characters\bin\Debug\netcoreapp3.1\Middle Characters.dll
+D:\Projects\Code\GitHub\C# Fundamentals\Methods\Smallest of Three Numbers\Middle Characters\bin\Debug\netcoreapp3.1\Middle Characters.pdb
+D:\Projects\Code\GitHub\C# Fundamentals\Methods\Smallest of Three Numbers\Middle Characters\obj\Debug\netcoreapp3.1\Middle Characters.csprojAssemblyReference.cache
+D:\Projects\Code\GitHub\C# Fundamentals\Methods\Smallest of Three Numbers\Middle Characters\obj\Debug\netcoreapp3.1\Middle Characters.AssemblyInfoInputs.cache
+D:\Projects\Code\GitHub\C# Fundamentals\Methods\Smallest of Three Numbers\Middle Characters\obj\Debug\netcoreapp3.1\Middle Characters.AssemblyInfo.cs
+D:\Projects\Code\GitHub\C# Fundamentals\Methods\Smallest of Three Numbers\Middle Characters\obj\Debug\netcoreapp3.1\Middle Characters.dll
+D:\Projects\Code\GitHub\C# Fundamentals\Methods\Smallest of Three Numbers\Middle Characters\obj\Debug\netcoreapp3.1\Middle Characters.pdb

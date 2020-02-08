@@ -1,0 +1,11 @@
+D:\Projects\Code\GitHub\C# Fundamentals\Methods\Smallest of Three Numbers\Vowels Count\bin\Debug\netcoreapp3.1\Vowels Count.exe
+D:\Projects\Code\GitHub\C# Fundamentals\Methods\Smallest of Three Numbers\Vowels Count\bin\Debug\netcoreapp3.1\Vowels Count.deps.json
+D:\Projects\Code\GitHub\C# Fundamentals\Methods\Smallest of Three Numbers\Vowels Count\bin\Debug\netcoreapp3.1\Vowels Count.runtimeconfig.json
+D:\Projects\Code\GitHub\C# Fundamentals\Methods\Smallest of Three Numbers\Vowels Count\bin\Debug\netcoreapp3.1\Vowels Count.runtimeconfig.dev.json
+D:\Projects\Code\GitHub\C# Fundamentals\Methods\Smallest of Three Numbers\Vowels Count\bin\Debug\netcoreapp3.1\Vowels Count.dll
+D:\Projects\Code\GitHub\C# Fundamentals\Methods\Smallest of Three Numbers\Vowels Count\bin\Debug\netcoreapp3.1\Vowels Count.pdb
+D:\Projects\Code\GitHub\C# Fundamentals\Methods\Smallest of Three Numbers\Vowels Count\obj\Debug\netcoreapp3.1\Vowels Count.csprojAssemblyReference.cache
+D:\Projects\Code\GitHub\C# Fundamentals\Methods\Smallest of Three Numbers\Vowels Count\obj\Debug\netcoreapp3.1\Vowels Count.AssemblyInfoInputs.cache
+D:\Projects\Code\GitHub\C# Fundamentals\Methods\Smallest of Three Numbers\Vowels Count\obj\Debug\netcoreapp3.1\Vowels Count.AssemblyInfo.cs
+D:\Projects\Code\GitHub\C# Fundamentals\Methods\Smallest of Three Numbers\Vowels Count\obj\Debug\netcoreapp3.1\Vowels Count.dll
+D:\Projects\Code\GitHub\C# Fundamentals\Methods\Smallest of Three Numbers\Vowels Count\obj\Debug\netcoreapp3.1\Vowels Count.pdb
