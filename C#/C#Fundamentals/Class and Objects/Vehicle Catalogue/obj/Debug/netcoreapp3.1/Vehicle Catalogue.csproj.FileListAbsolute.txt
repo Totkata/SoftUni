@@ -1,0 +1,11 @@
+D:\Projects\Code\GitHub\C# Fundamentals\Class and Objects\Vehicle Catalogue\bin\Debug\netcoreapp3.1\Vehicle Catalogue.exe
+D:\Projects\Code\GitHub\C# Fundamentals\Class and Objects\Vehicle Catalogue\bin\Debug\netcoreapp3.1\Vehicle Catalogue.deps.json
+D:\Projects\Code\GitHub\C# Fundamentals\Class and Objects\Vehicle Catalogue\bin\Debug\netcoreapp3.1\Vehicle Catalogue.runtimeconfig.json
+D:\Projects\Code\GitHub\C# Fundamentals\Class and Objects\Vehicle Catalogue\bin\Debug\netcoreapp3.1\Vehicle Catalogue.runtimeconfig.dev.json
+D:\Projects\Code\GitHub\C# Fundamentals\Class and Objects\Vehicle Catalogue\bin\Debug\netcoreapp3.1\Vehicle Catalogue.dll
+D:\Projects\Code\GitHub\C# Fundamentals\Class and Objects\Vehicle Catalogue\bin\Debug\netcoreapp3.1\Vehicle Catalogue.pdb
+D:\Projects\Code\GitHub\C# Fundamentals\Class and Objects\Vehicle Catalogue\obj\Debug\netcoreapp3.1\Vehicle Catalogue.csprojAssemblyReference.cache
+D:\Projects\Code\GitHub\C# Fundamentals\Class and Objects\Vehicle Catalogue\obj\Debug\netcoreapp3.1\Vehicle Catalogue.AssemblyInfoInputs.cache
+D:\Projects\Code\GitHub\C# Fundamentals\Class and Objects\Vehicle Catalogue\obj\Debug\netcoreapp3.1\Vehicle Catalogue.AssemblyInfo.cs
+D:\Projects\Code\GitHub\C# Fundamentals\Class and Objects\Vehicle Catalogue\obj\Debug\netcoreapp3.1\Vehicle Catalogue.dll
+D:\Projects\Code\GitHub\C# Fundamentals\Class and Objects\Vehicle Catalogue\obj\Debug\netcoreapp3.1\Vehicle Catalogue.pdb
