@@ -1,0 +1,11 @@
+D:\Projects\Code\GitHub\SoftUni\C#\C# Advanced\StacksAndQueues\CupsAndBotles\bin\Debug\netcoreapp3.1\CupsAndBotles.exe
+D:\Projects\Code\GitHub\SoftUni\C#\C# Advanced\StacksAndQueues\CupsAndBotles\bin\Debug\netcoreapp3.1\CupsAndBotles.deps.json
+D:\Projects\Code\GitHub\SoftUni\C#\C# Advanced\StacksAndQueues\CupsAndBotles\bin\Debug\netcoreapp3.1\CupsAndBotles.runtimeconfig.json
+D:\Projects\Code\GitHub\SoftUni\C#\C# Advanced\StacksAndQueues\CupsAndBotles\bin\Debug\netcoreapp3.1\CupsAndBotles.runtimeconfig.dev.json
+D:\Projects\Code\GitHub\SoftUni\C#\C# Advanced\StacksAndQueues\CupsAndBotles\bin\Debug\netcoreapp3.1\CupsAndBotles.dll
+D:\Projects\Code\GitHub\SoftUni\C#\C# Advanced\StacksAndQueues\CupsAndBotles\bin\Debug\netcoreapp3.1\CupsAndBotles.pdb
+D:\Projects\Code\GitHub\SoftUni\C#\C# Advanced\StacksAndQueues\CupsAndBotles\obj\Debug\netcoreapp3.1\CupsAndBotles.csprojAssemblyReference.cache
+D:\Projects\Code\GitHub\SoftUni\C#\C# Advanced\StacksAndQueues\CupsAndBotles\obj\Debug\netcoreapp3.1\CupsAndBotles.AssemblyInfoInputs.cache
+D:\Projects\Code\GitHub\SoftUni\C#\C# Advanced\StacksAndQueues\CupsAndBotles\obj\Debug\netcoreapp3.1\CupsAndBotles.AssemblyInfo.cs
+D:\Projects\Code\GitHub\SoftUni\C#\C# Advanced\StacksAndQueues\CupsAndBotles\obj\Debug\netcoreapp3.1\CupsAndBotles.dll
+D:\Projects\Code\GitHub\SoftUni\C#\C# Advanced\StacksAndQueues\CupsAndBotles\obj\Debug\netcoreapp3.1\CupsAndBotles.pdb

@@ -1,0 +1,10 @@
+D:\Projects\Code\GitHub\SoftUni\C#\C# Advanced\StacksAndQueues\SongsQueue\bin\Debug\netcoreapp3.1\SongsQueue.exe
+D:\Projects\Code\GitHub\SoftUni\C#\C# Advanced\StacksAndQueues\SongsQueue\bin\Debug\netcoreapp3.1\SongsQueue.deps.json
+D:\Projects\Code\GitHub\SoftUni\C#\C# Advanced\StacksAndQueues\SongsQueue\bin\Debug\netcoreapp3.1\SongsQueue.runtimeconfig.json
+D:\Projects\Code\GitHub\SoftUni\C#\C# Advanced\StacksAndQueues\SongsQueue\bin\Debug\netcoreapp3.1\SongsQueue.runtimeconfig.dev.json
+D:\Projects\Code\GitHub\SoftUni\C#\C# Advanced\StacksAndQueues\SongsQueue\bin\Debug\netcoreapp3.1\SongsQueue.dll
+D:\Projects\Code\GitHub\SoftUni\C#\C# Advanced\StacksAndQueues\SongsQueue\bin\Debug\netcoreapp3.1\SongsQueue.pdb
+D:\Projects\Code\GitHub\SoftUni\C#\C# Advanced\StacksAndQueues\SongsQueue\obj\Debug\netcoreapp3.1\SongsQueue.AssemblyInfoInputs.cache
+D:\Projects\Code\GitHub\SoftUni\C#\C# Advanced\StacksAndQueues\SongsQueue\obj\Debug\netcoreapp3.1\SongsQueue.AssemblyInfo.cs
+D:\Projects\Code\GitHub\SoftUni\C#\C# Advanced\StacksAndQueues\SongsQueue\obj\Debug\netcoreapp3.1\SongsQueue.dll
+D:\Projects\Code\GitHub\SoftUni\C#\C# Advanced\StacksAndQueues\SongsQueue\obj\Debug\netcoreapp3.1\SongsQueue.pdb
