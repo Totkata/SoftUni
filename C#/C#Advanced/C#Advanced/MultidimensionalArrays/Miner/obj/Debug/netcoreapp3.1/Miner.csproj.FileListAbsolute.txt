@@ -1,0 +1,11 @@
+D:\Projects\Code\GitHub\SoftUni\C#\C# Advanced\MultidimensionalArrays\Miner\bin\Debug\netcoreapp3.1\Miner.exe
+D:\Projects\Code\GitHub\SoftUni\C#\C# Advanced\MultidimensionalArrays\Miner\bin\Debug\netcoreapp3.1\Miner.deps.json
+D:\Projects\Code\GitHub\SoftUni\C#\C# Advanced\MultidimensionalArrays\Miner\bin\Debug\netcoreapp3.1\Miner.runtimeconfig.json
+D:\Projects\Code\GitHub\SoftUni\C#\C# Advanced\MultidimensionalArrays\Miner\bin\Debug\netcoreapp3.1\Miner.runtimeconfig.dev.json
+D:\Projects\Code\GitHub\SoftUni\C#\C# Advanced\MultidimensionalArrays\Miner\bin\Debug\netcoreapp3.1\Miner.dll
+D:\Projects\Code\GitHub\SoftUni\C#\C# Advanced\MultidimensionalArrays\Miner\bin\Debug\netcoreapp3.1\Miner.pdb
+D:\Projects\Code\GitHub\SoftUni\C#\C# Advanced\MultidimensionalArrays\Miner\obj\Debug\netcoreapp3.1\Miner.csprojAssemblyReference.cache
+D:\Projects\Code\GitHub\SoftUni\C#\C# Advanced\MultidimensionalArrays\Miner\obj\Debug\netcoreapp3.1\Miner.AssemblyInfoInputs.cache
+D:\Projects\Code\GitHub\SoftUni\C#\C# Advanced\MultidimensionalArrays\Miner\obj\Debug\netcoreapp3.1\Miner.AssemblyInfo.cs
+D:\Projects\Code\GitHub\SoftUni\C#\C# Advanced\MultidimensionalArrays\Miner\obj\Debug\netcoreapp3.1\Miner.dll
+D:\Projects\Code\GitHub\SoftUni\C#\C# Advanced\MultidimensionalArrays\Miner\obj\Debug\netcoreapp3.1\Miner.pdb
