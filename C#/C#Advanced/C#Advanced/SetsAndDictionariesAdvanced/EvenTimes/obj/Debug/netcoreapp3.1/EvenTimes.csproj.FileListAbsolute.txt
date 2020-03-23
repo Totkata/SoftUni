@@ -1,0 +1,13 @@
+D:\Projects\Code\GitHub\SoftUni\C#\C# Advanced\SetsAndDictionariesAdvanced\EvenTimes\bin\Debug\netcoreapp3.1\EvenTimes.exe
+D:\Projects\Code\GitHub\SoftUni\C#\C# Advanced\SetsAndDictionariesAdvanced\EvenTimes\bin\Debug\netcoreapp3.1\EvenTimes.deps.json
+D:\Projects\Code\GitHub\SoftUni\C#\C# Advanced\SetsAndDictionariesAdvanced\EvenTimes\bin\Debug\netcoreapp3.1\EvenTimes.runtimeconfig.json
+D:\Projects\Code\GitHub\SoftUni\C#\C# Advanced\SetsAndDictionariesAdvanced\EvenTimes\bin\Debug\netcoreapp3.1\EvenTimes.runtimeconfig.dev.json
+D:\Projects\Code\GitHub\SoftUni\C#\C# Advanced\SetsAndDictionariesAdvanced\EvenTimes\bin\Debug\netcoreapp3.1\EvenTimes.dll
+D:\Projects\Code\GitHub\SoftUni\C#\C# Advanced\SetsAndDictionariesAdvanced\EvenTimes\bin\Debug\netcoreapp3.1\EvenTimes.pdb
+D:\Projects\Code\GitHub\SoftUni\C#\C# Advanced\SetsAndDictionariesAdvanced\EvenTimes\obj\Debug\netcoreapp3.1\EvenTimes.csprojAssemblyReference.cache
+D:\Projects\Code\GitHub\SoftUni\C#\C# Advanced\SetsAndDictionariesAdvanced\EvenTimes\obj\Debug\netcoreapp3.1\EvenTimes.csproj.CoreCompileInputs.cache
+D:\Projects\Code\GitHub\SoftUni\C#\C# Advanced\SetsAndDictionariesAdvanced\EvenTimes\obj\Debug\netcoreapp3.1\EvenTimes.AssemblyInfoInputs.cache
+D:\Projects\Code\GitHub\SoftUni\C#\C# Advanced\SetsAndDictionariesAdvanced\EvenTimes\obj\Debug\netcoreapp3.1\EvenTimes.AssemblyInfo.cs
+D:\Projects\Code\GitHub\SoftUni\C#\C# Advanced\SetsAndDictionariesAdvanced\EvenTimes\obj\Debug\netcoreapp3.1\EvenTimes.dll
+D:\Projects\Code\GitHub\SoftUni\C#\C# Advanced\SetsAndDictionariesAdvanced\EvenTimes\obj\Debug\netcoreapp3.1\EvenTimes.pdb
+D:\Projects\Code\GitHub\SoftUni\C#\C# Advanced\SetsAndDictionariesAdvanced\EvenTimes\obj\Debug\netcoreapp3.1\EvenTimes.genruntimeconfig.cache

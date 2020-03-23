@@ -1,0 +1,13 @@
+D:\Projects\Code\GitHub\SoftUni\C#\C# Advanced\SetsAndDictionariesAdvanced\SetsOfElements\bin\Debug\netcoreapp3.1\SetsOfElements.exe
+D:\Projects\Code\GitHub\SoftUni\C#\C# Advanced\SetsAndDictionariesAdvanced\SetsOfElements\bin\Debug\netcoreapp3.1\SetsOfElements.deps.json
+D:\Projects\Code\GitHub\SoftUni\C#\C# Advanced\SetsAndDictionariesAdvanced\SetsOfElements\bin\Debug\netcoreapp3.1\SetsOfElements.runtimeconfig.json
+D:\Projects\Code\GitHub\SoftUni\C#\C# Advanced\SetsAndDictionariesAdvanced\SetsOfElements\bin\Debug\netcoreapp3.1\SetsOfElements.runtimeconfig.dev.json
+D:\Projects\Code\GitHub\SoftUni\C#\C# Advanced\SetsAndDictionariesAdvanced\SetsOfElements\bin\Debug\netcoreapp3.1\SetsOfElements.dll
+D:\Projects\Code\GitHub\SoftUni\C#\C# Advanced\SetsAndDictionariesAdvanced\SetsOfElements\bin\Debug\netcoreapp3.1\SetsOfElements.pdb
+D:\Projects\Code\GitHub\SoftUni\C#\C# Advanced\SetsAndDictionariesAdvanced\SetsOfElements\obj\Debug\netcoreapp3.1\SetsOfElements.csprojAssemblyReference.cache
+D:\Projects\Code\GitHub\SoftUni\C#\C# Advanced\SetsAndDictionariesAdvanced\SetsOfElements\obj\Debug\netcoreapp3.1\SetsOfElements.AssemblyInfoInputs.cache
+D:\Projects\Code\GitHub\SoftUni\C#\C# Advanced\SetsAndDictionariesAdvanced\SetsOfElements\obj\Debug\netcoreapp3.1\SetsOfElements.AssemblyInfo.cs
+D:\Projects\Code\GitHub\SoftUni\C#\C# Advanced\SetsAndDictionariesAdvanced\SetsOfElements\obj\Debug\netcoreapp3.1\SetsOfElements.dll
+D:\Projects\Code\GitHub\SoftUni\C#\C# Advanced\SetsAndDictionariesAdvanced\SetsOfElements\obj\Debug\netcoreapp3.1\SetsOfElements.pdb
+D:\Projects\Code\GitHub\SoftUni\C#\C# Advanced\SetsAndDictionariesAdvanced\SetsOfElements\obj\Debug\netcoreapp3.1\SetsOfElements.csproj.CoreCompileInputs.cache
+D:\Projects\Code\GitHub\SoftUni\C#\C# Advanced\SetsAndDictionariesAdvanced\SetsOfElements\obj\Debug\netcoreapp3.1\SetsOfElements.genruntimeconfig.cache
