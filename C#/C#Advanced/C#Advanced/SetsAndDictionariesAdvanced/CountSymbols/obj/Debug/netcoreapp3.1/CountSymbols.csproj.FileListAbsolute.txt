@@ -1,0 +1,13 @@
+D:\Projects\Code\GitHub\SoftUni\C#\C# Advanced\SetsAndDictionariesAdvanced\CountSymbols\bin\Debug\netcoreapp3.1\CountSymbols.exe
+D:\Projects\Code\GitHub\SoftUni\C#\C# Advanced\SetsAndDictionariesAdvanced\CountSymbols\bin\Debug\netcoreapp3.1\CountSymbols.deps.json
+D:\Projects\Code\GitHub\SoftUni\C#\C# Advanced\SetsAndDictionariesAdvanced\CountSymbols\bin\Debug\netcoreapp3.1\CountSymbols.runtimeconfig.json
+D:\Projects\Code\GitHub\SoftUni\C#\C# Advanced\SetsAndDictionariesAdvanced\CountSymbols\bin\Debug\netcoreapp3.1\CountSymbols.runtimeconfig.dev.json
+D:\Projects\Code\GitHub\SoftUni\C#\C# Advanced\SetsAndDictionariesAdvanced\CountSymbols\bin\Debug\netcoreapp3.1\CountSymbols.dll
+D:\Projects\Code\GitHub\SoftUni\C#\C# Advanced\SetsAndDictionariesAdvanced\CountSymbols\bin\Debug\netcoreapp3.1\CountSymbols.pdb
+D:\Projects\Code\GitHub\SoftUni\C#\C# Advanced\SetsAndDictionariesAdvanced\CountSymbols\obj\Debug\netcoreapp3.1\CountSymbols.csprojAssemblyReference.cache
+D:\Projects\Code\GitHub\SoftUni\C#\C# Advanced\SetsAndDictionariesAdvanced\CountSymbols\obj\Debug\netcoreapp3.1\CountSymbols.csproj.CoreCompileInputs.cache
+D:\Projects\Code\GitHub\SoftUni\C#\C# Advanced\SetsAndDictionariesAdvanced\CountSymbols\obj\Debug\netcoreapp3.1\CountSymbols.AssemblyInfoInputs.cache
+D:\Projects\Code\GitHub\SoftUni\C#\C# Advanced\SetsAndDictionariesAdvanced\CountSymbols\obj\Debug\netcoreapp3.1\CountSymbols.AssemblyInfo.cs
+D:\Projects\Code\GitHub\SoftUni\C#\C# Advanced\SetsAndDictionariesAdvanced\CountSymbols\obj\Debug\netcoreapp3.1\CountSymbols.dll
+D:\Projects\Code\GitHub\SoftUni\C#\C# Advanced\SetsAndDictionariesAdvanced\CountSymbols\obj\Debug\netcoreapp3.1\CountSymbols.pdb
+D:\Projects\Code\GitHub\SoftUni\C#\C# Advanced\SetsAndDictionariesAdvanced\CountSymbols\obj\Debug\netcoreapp3.1\CountSymbols.genruntimeconfig.cache

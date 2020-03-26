@@ -1,0 +1,13 @@
+D:\Projects\Code\GitHub\SoftUni\C#\C# Advanced\SetsAndDictionariesAdvanced\TheV_Logger\obj\Debug\netcoreapp3.1\TheV_Logger.csprojAssemblyReference.cache
+D:\Projects\Code\GitHub\SoftUni\C#\C# Advanced\SetsAndDictionariesAdvanced\TheV_Logger\obj\Debug\netcoreapp3.1\TheV_Logger.csproj.CoreCompileInputs.cache
+D:\Projects\Code\GitHub\SoftUni\C#\C# Advanced\SetsAndDictionariesAdvanced\TheV_Logger\obj\Debug\netcoreapp3.1\TheV_Logger.AssemblyInfoInputs.cache
+D:\Projects\Code\GitHub\SoftUni\C#\C# Advanced\SetsAndDictionariesAdvanced\TheV_Logger\obj\Debug\netcoreapp3.1\TheV_Logger.AssemblyInfo.cs
+D:\Projects\Code\GitHub\SoftUni\C#\C# Advanced\SetsAndDictionariesAdvanced\TheV_Logger\bin\Debug\netcoreapp3.1\TheV_Logger.exe
+D:\Projects\Code\GitHub\SoftUni\C#\C# Advanced\SetsAndDictionariesAdvanced\TheV_Logger\bin\Debug\netcoreapp3.1\TheV_Logger.deps.json
+D:\Projects\Code\GitHub\SoftUni\C#\C# Advanced\SetsAndDictionariesAdvanced\TheV_Logger\bin\Debug\netcoreapp3.1\TheV_Logger.runtimeconfig.json
+D:\Projects\Code\GitHub\SoftUni\C#\C# Advanced\SetsAndDictionariesAdvanced\TheV_Logger\bin\Debug\netcoreapp3.1\TheV_Logger.runtimeconfig.dev.json
+D:\Projects\Code\GitHub\SoftUni\C#\C# Advanced\SetsAndDictionariesAdvanced\TheV_Logger\bin\Debug\netcoreapp3.1\TheV_Logger.dll
+D:\Projects\Code\GitHub\SoftUni\C#\C# Advanced\SetsAndDictionariesAdvanced\TheV_Logger\bin\Debug\netcoreapp3.1\TheV_Logger.pdb
+D:\Projects\Code\GitHub\SoftUni\C#\C# Advanced\SetsAndDictionariesAdvanced\TheV_Logger\obj\Debug\netcoreapp3.1\TheV_Logger.dll
+D:\Projects\Code\GitHub\SoftUni\C#\C# Advanced\SetsAndDictionariesAdvanced\TheV_Logger\obj\Debug\netcoreapp3.1\TheV_Logger.pdb
+D:\Projects\Code\GitHub\SoftUni\C#\C# Advanced\SetsAndDictionariesAdvanced\TheV_Logger\obj\Debug\netcoreapp3.1\TheV_Logger.genruntimeconfig.cache
