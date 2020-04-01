@@ -1,0 +1,13 @@
+D:\Projects\Code\GitHub\SoftUni\C#\C# Advanced\FunctionalProgramming\PredicateForNames\bin\Debug\netcoreapp3.1\PredicateForNames.exe
+D:\Projects\Code\GitHub\SoftUni\C#\C# Advanced\FunctionalProgramming\PredicateForNames\bin\Debug\netcoreapp3.1\PredicateForNames.deps.json
+D:\Projects\Code\GitHub\SoftUni\C#\C# Advanced\FunctionalProgramming\PredicateForNames\bin\Debug\netcoreapp3.1\PredicateForNames.runtimeconfig.json
+D:\Projects\Code\GitHub\SoftUni\C#\C# Advanced\FunctionalProgramming\PredicateForNames\bin\Debug\netcoreapp3.1\PredicateForNames.runtimeconfig.dev.json
+D:\Projects\Code\GitHub\SoftUni\C#\C# Advanced\FunctionalProgramming\PredicateForNames\bin\Debug\netcoreapp3.1\PredicateForNames.dll
+D:\Projects\Code\GitHub\SoftUni\C#\C# Advanced\FunctionalProgramming\PredicateForNames\bin\Debug\netcoreapp3.1\PredicateForNames.pdb
+D:\Projects\Code\GitHub\SoftUni\C#\C# Advanced\FunctionalProgramming\PredicateForNames\obj\Debug\netcoreapp3.1\PredicateForNames.csprojAssemblyReference.cache
+D:\Projects\Code\GitHub\SoftUni\C#\C# Advanced\FunctionalProgramming\PredicateForNames\obj\Debug\netcoreapp3.1\PredicateForNames.csproj.CoreCompileInputs.cache
+D:\Projects\Code\GitHub\SoftUni\C#\C# Advanced\FunctionalProgramming\PredicateForNames\obj\Debug\netcoreapp3.1\PredicateForNames.AssemblyInfoInputs.cache
+D:\Projects\Code\GitHub\SoftUni\C#\C# Advanced\FunctionalProgramming\PredicateForNames\obj\Debug\netcoreapp3.1\PredicateForNames.AssemblyInfo.cs
+D:\Projects\Code\GitHub\SoftUni\C#\C# Advanced\FunctionalProgramming\PredicateForNames\obj\Debug\netcoreapp3.1\PredicateForNames.dll
+D:\Projects\Code\GitHub\SoftUni\C#\C# Advanced\FunctionalProgramming\PredicateForNames\obj\Debug\netcoreapp3.1\PredicateForNames.pdb
+D:\Projects\Code\GitHub\SoftUni\C#\C# Advanced\FunctionalProgramming\PredicateForNames\obj\Debug\netcoreapp3.1\PredicateForNames.genruntimeconfig.cache
