@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Projects\\Code\\GitHub\\C# Fundamentals\\Class and Objects\\Order by Age\\Order by Age.csproj": {}
+    "D:\\Projects\\Code\\git\\SoftUni\\C#\\C#Fundamentals\\Class and Objects\\Order by Age\\Order by Age.csproj": {}
   },
   "projects": {
-    "D:\\Projects\\Code\\GitHub\\C# Fundamentals\\Class and Objects\\Order by Age\\Order by Age.csproj": {
+    "D:\\Projects\\Code\\git\\SoftUni\\C#\\C#Fundamentals\\Class and Objects\\Order by Age\\Order by Age.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Projects\\Code\\GitHub\\C# Fundamentals\\Class and Objects\\Order by Age\\Order by Age.csproj",
+        "projectUniqueName": "D:\\Projects\\Code\\git\\SoftUni\\C#\\C#Fundamentals\\Class and Objects\\Order by Age\\Order by Age.csproj",
         "projectName": "Order by Age",
-        "projectPath": "D:\\Projects\\Code\\GitHub\\C# Fundamentals\\Class and Objects\\Order by Age\\Order by Age.csproj",
+        "projectPath": "D:\\Projects\\Code\\git\\SoftUni\\C#\\C#Fundamentals\\Class and Objects\\Order by Age\\Order by Age.csproj",
         "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
-        "outputPath": "D:\\Projects\\Code\\GitHub\\C# Fundamentals\\Class and Objects\\Order by Age\\obj\\",
+        "outputPath": "D:\\Projects\\Code\\git\\SoftUni\\C#\\C#Fundamentals\\Class and Objects\\Order by Age\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -50,12 +50,18 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[3.1.2, 3.1.2]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.300\\RuntimeIdentifierGraph.json"
         }
       }
     }

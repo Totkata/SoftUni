@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "WX212yBVPGnCRfOe1M9W9WL8NEWrcHKzXNxOJ6ol1gpzfSra6W+ebk10ADzvi0lK7ZcW+tTbt+w7Jf+8JxPM3A==",
+  "success": true,
+  "projectFilePath": "D:\\Projects\\Code\\git\\SoftUni\\C#\\C#Fundamentals\\Class and Objects\\Vehicle Catalogue\\Vehicle Catalogue.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

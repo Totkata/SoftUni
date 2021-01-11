@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Projects\\Code\\GitHub\\C# Fundamentals\\Class and Objects\\Students\\Students.csproj",
+      "projectUniqueName": "D:\\Projects\\Code\\git\\SoftUni\\C#\\C#Fundamentals\\Class and Objects\\Students\\Students.csproj",
       "projectName": "Students",
-      "projectPath": "D:\\Projects\\Code\\GitHub\\C# Fundamentals\\Class and Objects\\Students\\Students.csproj",
+      "projectPath": "D:\\Projects\\Code\\git\\SoftUni\\C#\\C#Fundamentals\\Class and Objects\\Students\\Students.csproj",
       "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
-      "outputPath": "D:\\Projects\\Code\\GitHub\\C# Fundamentals\\Class and Objects\\Students\\obj\\",
+      "outputPath": "D:\\Projects\\Code\\git\\SoftUni\\C#\\C#Fundamentals\\Class and Objects\\Students\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -57,12 +57,18 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.AspNetCore.App.Ref",
+            "version": "[3.1.2, 3.1.2]"
+          }
+        ],
         "frameworkReferences": {
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.300\\RuntimeIdentifierGraph.json"
       }
     }
   }
